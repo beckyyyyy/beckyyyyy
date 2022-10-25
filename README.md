@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 I'm Becky
+
+I’m currently learning Front-end development.💻
 
 <!--
 **beckyyyyy/beckyyyyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
