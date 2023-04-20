@@ -2,6 +2,8 @@
 
 I’m currently learning Front-end development.💻
 
+Here are my collections of practicing Front-end development ➡️ [Click me !](https://beckyyyyy.github.io/portfolio/)
+
 <!--
 **beckyyyyy/beckyyyyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
